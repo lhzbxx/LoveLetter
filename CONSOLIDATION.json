@@ -5,19 +5,26 @@
       "repo": "LoveLetter",
       "source": "https://github.com/lhzbxx/LoveLetter",
       "commit": "6e29dfc5cc316bb3906aa9774b35cb58dddd5032",
-      "path": "projects/LoveLetter"
+      "path": "projects/LoveLetter",
+      "history_url": "https://github.com/lhzbxx/LoveLetter/tree/6e29dfc5cc316bb3906aa9774b35cb58dddd5032",
+      "source_repository_removed": false
     },
     {
       "repo": "love_letter_bot",
       "source": "https://github.com/lhzbxx/love_letter_bot",
       "commit": "3e369a1fa20b8a566098a17902e52046844488e4",
-      "path": "projects/love_letter_bot"
+      "path": "projects/love_letter_bot",
+      "history_url": "https://github.com/lhzbxx/LoveLetter/tree/3e369a1fa20b8a566098a17902e52046844488e4",
+      "source_repository_removed": true
     },
     {
       "repo": "TRPG-tools",
       "source": "https://github.com/lhzbxx/TRPG-tools",
       "commit": "bc0c21bb9d6de293a87452bcffe35944113d4ec8",
-      "path": "projects/TRPG-tools"
+      "path": "projects/TRPG-tools",
+      "history_url": "https://github.com/lhzbxx/LoveLetter/tree/bc0c21bb9d6de293a87452bcffe35944113d4ec8",
+      "source_repository_removed": true
     }
-  ]
+  ],
+  "source_refs_manifest": "SOURCE_REFS.json"
 }
