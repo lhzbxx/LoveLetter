@@ -1,0 +1,27 @@
+{
+  "name": "trpg",
+  "version": "1.0.0",
+  "description": "A tool for TRPG",
+  "author": "lhzbxx <lhzbxx@gmail.com>",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -w src --exec \"babel-node src\"",
+    "build": "babel src -s -D -d dist",
+    "start": "node dist",
+    "deploy": "pm2 start dist",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0",
+    "nodemon": "^1.11.0"
+  }
+}
